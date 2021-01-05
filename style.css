@@ -4,8 +4,8 @@ body{
     padding: 0;
 }
 section{
-    height: 500px;
-    margin-bottom: 150px;
+    height: 600px;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 40%;
@@ -24,6 +24,11 @@ section{
     color: #19334d;
     font-size: 35px;
 }
+.third-section h2{
+    color: #19334d;
+    font-size: 35px;
+    text-align: center;
+}
 .color-highlight{
     color: #FA8072;
 }
@@ -39,4 +44,52 @@ section{
     text-decoration: none;
     padding: 20px 40px;
     border-radius: 07px;
+}
+.one-third{
+    width: 25%;
+    height: 370px;
+    float: left;
+    margin: 2.12%;
+    padding: 2%;
+    background-color: white;
+    border-radius: 20px;
+}
+.one-third img{
+    width: 100%;
+}
+.third-section{
+    background-color: #e6e6e6;
+}
+.one-third h3{
+    color: #19334d;
+    font-size: 22px;
+}
+.one-third p{
+    color:  #5a5a5a;
+}
+.INQUIRY h2{
+    color: black;
+    font-size: 35px;
+
+}
+.INQUIRY{
+    width: 80%;
+    height: 400px;
+    background-image: url("images/bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-left: 135px;
+}
+.INQUIRY h2{
+    color: #19334d;
+    font-size: 35px;
+    display: inline-block;
+    margin: 25vh 35vh;
+    color: white;
+    
+}
+
+.INQUIRY a{
+
 }
