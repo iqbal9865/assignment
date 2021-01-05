@@ -24,11 +24,7 @@ section{
     color: #19334d;
     font-size: 35px;
 }
-.third-section h2{
-    color: #19334d;
-    font-size: 35px;
-    text-align: center;
-}
+
 .color-highlight{
     color: #FA8072;
 }
@@ -57,6 +53,12 @@ section{
 .one-third img{
     width: 100%;
 }
+.third-section h2{
+    color: #19334d;
+    font-size: 35px;
+    text-align: center;
+    padding: 15px;
+}
 .third-section{
     background-color: #e6e6e6;
 }
@@ -67,11 +69,7 @@ section{
 .one-third p{
     color:  #5a5a5a;
 }
-.INQUIRY h2{
-    color: black;
-    font-size: 35px;
 
-}
 .INQUIRY{
     width: 80%;
     height: 400px;
@@ -82,14 +80,8 @@ section{
     margin-left: 135px;
 }
 .INQUIRY h2{
-    color: #19334d;
     font-size: 35px;
     display: inline-block;
-    margin: 25vh 35vh;
-    color: white;
-    
-}
-
-.INQUIRY a{
-
+    margin: 26vh 33vh;
+    color: white; 
 }
