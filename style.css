@@ -53,13 +53,15 @@ section{
 .one-third img{
     width: 100%;
 }
-.third-section h2{
+.third-section h2,
+.extra-section h2{
     color: #19334d;
     font-size: 35px;
     text-align: center;
     padding: 15px;
 }
-.third-section{
+.third-section,
+.extra-section{
     background-color: #e6e6e6;
 }
 .one-third h3{
@@ -84,4 +86,40 @@ section{
     display: inline-block;
     margin: 26vh 33vh;
     color: white; 
+}
+.fourth-section{
+    margin-bottom: 0;
+    height: 400px;
+}
+
+.extra-section h4{
+    text-align: center;
+    color: #19334d;
+    font-size: 20px;
+    margin-top: 0;
+}
+form{
+    width: 80%;
+    height: 300px;
+    margin: 0 auto;
+
+}
+form label,
+form input,
+form textarea{
+    display: block; 
+    font-size: 18px;
+    color: #19334d;
+    margin-left: 32vh;
+}
+form input,
+form textarea{
+    width: 60%;
+    padding: 1rem;
+}
+form a{
+    display: block;
+    width: 50px;
+    margin-top: 3.5vh;
+    margin-left: 32vh;
 }
