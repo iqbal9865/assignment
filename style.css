@@ -24,7 +24,6 @@ section{
     color: #19334d;
     font-size: 35px;
 }
-
 .color-highlight{
     color: #FA8072;
 }
@@ -71,7 +70,6 @@ section{
 .one-third p{
     color:  #5a5a5a;
 }
-
 .INQUIRY{
     width: 80%;
     height: 330px;
@@ -91,7 +89,6 @@ section{
     margin-bottom: 0;
     height: 400px;
 }
-
 .extra-section h4,
 .social-media-sec{
     text-align: center;
@@ -103,7 +100,6 @@ form{
     width: 80%;
     height: 300px;
     margin: 0 auto;
-
 }
 form label,
 form input,
@@ -150,7 +146,6 @@ form a{
     background: #007bb5;
     color: white;
   }
-  
 .fa-instagram {
     background: tomato;
     color: white;
