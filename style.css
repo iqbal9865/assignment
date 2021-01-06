@@ -74,7 +74,7 @@ section{
 
 .INQUIRY{
     width: 80%;
-    height: 400px;
+    height: 330px;
     background-image: url("images/bg.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -84,7 +84,7 @@ section{
 .INQUIRY h2{
     font-size: 35px;
     display: inline-block;
-    margin: 26vh 33vh;
+    margin: 20vh 33vh;
     color: white; 
 }
 .fourth-section{
