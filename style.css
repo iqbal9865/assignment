@@ -17,24 +17,24 @@ section{
     width: 100%;
 }
 .half-width h1{
-    color: #19334d;
+    color: #363958;
     font-size: 55px;
 }
 .half-width h2{
-    color: #19334d;
+    color: #363958;
     font-size: 35px;
 }
 .color-highlight{
-    color: #FA8072;
+    color: #FF8367;
 }
 .half-width p{
     text-align: justify;
-    color: #5a5a5a;
+    color: #3E3E3E;
     font-weight: 400;
     margin: 50px 0;
 }
 .buttons{
-    background-color:  #FA8072;
+    background-color:  #FF8367;
     color: white;
     text-decoration: none;
     padding: 20px 40px;
@@ -54,7 +54,7 @@ section{
 }
 .third-section h2,
 .extra-section h2{
-    color: #19334d;
+    color: #363958;
     font-size: 35px;
     text-align: center;
     padding: 15px;
@@ -64,11 +64,11 @@ section{
     background-color: #e6e6e6;
 }
 .one-third h3{
-    color: #19334d;
+    color: #363958;
     font-size: 22px;
 }
 .one-third p{
-    color:  #5a5a5a;
+    color:  #3E3E3E;
 }
 .INQUIRY{
     width: 80%;
@@ -92,7 +92,7 @@ section{
 .extra-section h4,
 .social-media-sec{
     text-align: center;
-    color:  #5a5a5a;
+    color:  #3E3E3E;
     font-size: 20px;
     margin-top: 0;
 }
@@ -106,7 +106,7 @@ form input,
 form textarea{
     display: block; 
     font-size: 18px;
-    color: #19334d;
+    color: #363958;
     margin-left: 32vh;
 }
 form input,
@@ -126,7 +126,7 @@ form a{
     height: 150px;
 }
 .social-media-sec h3{
-    color: #19334d;
+    color: #363958;
     text-align: center;
 }
 .fa {
@@ -139,7 +139,7 @@ form a{
     margin: 3px 15px;
   }
   .fa-facebook {
-    background: #3B5998;
+    background: #363958;
     color: white;
   }
   .fa-linkedin {
@@ -147,6 +147,6 @@ form a{
     color: white;
   }
 .fa-instagram {
-    background: tomato;
+    background: #FF8367;
     color: white;
   }
